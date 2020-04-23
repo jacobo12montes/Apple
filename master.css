@@ -221,6 +221,10 @@ main {
   display: flex;
 }
 
+.adv > * {
+  margin: 0.15em;
+}
+
 .adv11,
 .adv12,
 .adv13,
@@ -252,10 +256,11 @@ main {
   height: 80px;
   display: flex;
   font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-  font-size: 11px;
+  font-weight: 500;
+  font-size: 10px;
   text-align: center;
   padding-top: 2em;
+  color: #000;
 }
 
 .left {
@@ -263,17 +268,22 @@ main {
   width: 50%;
 }
 
-.rigth {
-  color: rgb(0, 102, 255);
-  width: 50%;
+.left > * {
+  padding: 0.5em;
 }
 
-.left11 {
+.right1 > span {
   color: rgb(0, 102, 255);
   cursor: pointer;
 }
 
-.right1 {
+.rigth {
+  width: 50%;
+  font-size: 11px;
+}
+
+.left11 {
+  color: rgb(0, 102, 255);
   cursor: pointer;
 }
 
