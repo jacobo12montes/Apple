@@ -280,3 +280,8 @@ main {
 .ign {
   display: none;
 }
+
+.list {
+  display: flex;
+  width: 100%;
+}
