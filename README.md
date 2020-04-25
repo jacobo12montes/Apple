@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/jacobo12montes/Apple/main/index.html)
+[Live Demo Link](https://raw.githack.com/jacobo12montes/Apple/master/index.html)
 
 
 ## Getting Started
